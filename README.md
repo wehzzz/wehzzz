@@ -1,5 +1,5 @@
 ## Hey there! 👋
-<img  src="arcane.webp"/>
+<img src="arcane.webp" style="width:100%;"/>
 
 Hi! I'm Martin Levesque, a final-year student in low-level and embedded systems engineering & Teaching Assistant ACU at EPITA
 
