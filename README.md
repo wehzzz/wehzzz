@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Teaching Assistant ACU & Final year student in embedded systems and low level systems engineering 
+Teaching Assistant ACU & Final year student in low level and embedded systems engineering 
 
 ---
 
