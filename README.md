@@ -9,3 +9,4 @@ Hi! I'm Martin Levesque, a final-year student in low-level and embedded systems 
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wehzzz&layout=compact&size_weight=0.5&count_weight=0.5&theme=material-palenight)
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/wehzzz/contributions)
