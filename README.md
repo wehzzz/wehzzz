@@ -1,6 +1,8 @@
 <h2 align="center">Hey there !👋</h2>
 
-<img src="arcane.webp" align="center"/>
+<div align="center">
+  <img src="arcane.webp"/>
+</div>
 
 Hi! I'm Martin Levesque, a final-year student in low-level and embedded systems engineering & Teaching Assistant ACU at EPITA
 
