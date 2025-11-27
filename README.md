@@ -1,6 +1,7 @@
-## Hi there 👋
+## Hey there! 👋
+<img  src="arcane.webp"/>
 
-Teaching Assistant at ACU & Final-year student in low-level and embedded systems engineering
+Hi! I'm Martin Levesque, a final-year student in low-level and embedded systems engineering & Teaching Assistant ACU at EPITA
 
 ---
 
