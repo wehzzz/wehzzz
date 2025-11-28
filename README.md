@@ -15,7 +15,9 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wehzzz&layout=compact&size_weight=0.5&count_weight=0.5&theme=material-palenight"/>
-  <img src="https://contrib.rocks/image?repo=wehzzz/MFRC522-Driver" />
-  <img src="https://contrib.rocks/image?repo=wehzzz/mylibgap" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wehzzz&layout=compact&size_weight=0.5&count_weight=0.5&theme=material-palenight" 
+    style="width:100%; max-width:1000px;" 
+  />
 </div>
+
